@@ -1,0 +1,10 @@
+D:\College\PP_PM01\Matrix\Matrix\bin\Debug\Matrix.exe.config
+D:\College\PP_PM01\Matrix\Matrix\bin\Debug\Matrix.exe
+D:\College\PP_PM01\Matrix\Matrix\bin\Debug\Matrix.pdb
+D:\College\PP_PM01\Matrix\Matrix\obj\Debug\Matrix.csprojAssemblyReference.cache
+D:\College\PP_PM01\Matrix\Matrix\obj\Debug\Matrix.Form1.resources
+D:\College\PP_PM01\Matrix\Matrix\obj\Debug\Matrix.Properties.Resources.resources
+D:\College\PP_PM01\Matrix\Matrix\obj\Debug\Matrix.csproj.GenerateResource.cache
+D:\College\PP_PM01\Matrix\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+D:\College\PP_PM01\Matrix\Matrix\obj\Debug\Matrix.exe
+D:\College\PP_PM01\Matrix\Matrix\obj\Debug\Matrix.pdb

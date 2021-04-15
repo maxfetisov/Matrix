@@ -233,10 +233,10 @@ namespace Matrix
             B = tmp;
             PrintA();
             numericUpDownA1.Value = A.N;
-            textBoxSizeA2.Text = $"{A.N}";
+            textBoxSizeA2.Text = A.N + "";
             PrintB();
             numericUpDownB2.Value = B.N;
-            textBoxSizeB2.Text = $"{B.N}";
+            textBoxSizeB2.Text = B.N + "";
             tmp = null;
         }
 
